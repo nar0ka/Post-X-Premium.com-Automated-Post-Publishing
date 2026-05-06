@@ -3,6 +3,7 @@
 An automated n8n workflow designed to generate and publish engaging content about technology, AI, and modern trends directly to X (Twitter).
 
 ---
+
 ### 🛠 System Architecture
 ![CryptoMind Architecture](Gemini_Generated_Image_a1yby3a1yby3a1yb.png)
 
