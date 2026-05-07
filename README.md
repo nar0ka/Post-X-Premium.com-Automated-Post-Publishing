@@ -17,6 +17,7 @@ The workflow runs automatically, generates unique posts, and publishes them to y
 * **Code in JavaScript**: Clears excess characters, validates the character limit up to 999 characters (with truncation if necessary), and prepares the text for publishing.
 * **Create Tweet**: Publishes the final text to X (Twitter).
 
+
 ---
 ### 🛒 Get Started
 Unlock the full power of automated crypto intelligence today.
